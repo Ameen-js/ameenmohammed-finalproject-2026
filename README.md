@@ -13,7 +13,7 @@ This project is an automated, serverless data ingestion pipeline built on AWS. I
 * **Monitoring:** Amazon CloudWatch
 
 ## Architecture Diagram
-![Architecture Guide](images/architecture.guide.png)
+![Architecture Guide](images/Architecture.Guide.png)
 
 ## Setup Instructions
 To replicate this environment in your own AWS account:
