@@ -1,7 +1,7 @@
 # ameenmohammed-finalproject-2026
 
 ## Project Summary
-This project is an automated, serverless data pipeline built on AWS. It lets you upload CSV files that contain student grades, which are processed and kept in a database.
+This project is an automated, serverless data pipeline built on AWS, called Records in Seconds. It lets you upload CSV files that contain student grades, which are processed and kept in a database.
 
 **Problem I Solved:** Educational institutions often rely on manual data entry for student records. This project allows for the automated processing and upload of student grade information, while keeping the costs very low if not $0, by utlizing AWS Free Tier
 
